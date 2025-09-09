@@ -1,6 +1,6 @@
 /* Add CSS Styling */
 .odd, .cool {
-    background-color: red;
+    background-color: rgba(255, 0, 0, 0.5);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -13,11 +13,11 @@
 }
 
 #second {
-    color: blue;
+    color: #0000FF;
     font-size: 36px;
 }
 
 #fourth {
-    background-color: chartreuse;
+    background-color: rgba(0, 255, 0, 0.5);
     font-weight: bold;
 }
