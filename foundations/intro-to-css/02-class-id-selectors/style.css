@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+.odd {
+    background-color: crimson;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.cool {
+    font-size: 24px;
+}
+
+
+.second, .fourth {
+    font-family: 'Times New Roman', Times, serif
+}
+
